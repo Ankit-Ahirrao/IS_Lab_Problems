@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ankitahirrao/Desktop/Mtech_Sem2/IS/IS_Problems/output/vigenere'
+relocations:     []
+...
